@@ -1,0 +1,34 @@
+1.
+Introduction
+3 hrs
+History of computing and computers, programming, block diagram of computer, generation of computer, types of computer, software, Programming Languages, Traditional and structured programming concept
+2. Programming Logic
+5 hrs Problems solving (understanding of problems, feasibility and requirement analysis) Design (flow Chart & Algorithm), program coding (execution, translator), testing and debugging, Implementation, evaluation and Maintenance of programs, documentation
+3. Variables and Data Types
+•
+3 hrs Constants and variables, Variable declaration, Variable Types, Simple input/output function, Operators
+4.
+Control Structures
+6 hrs
+Introduction, types of control statements- sequential, branching- if, else, else-if and switch statements, case, break and continue statements; looping- for loop, while loop, do-while loop, nested loop, goto statement
+5.
+Arrays and Strings
+6 hrs
+Introduction to arrays, initialization of arrays, multidimensional arrays, String, function related to the strings
+6.
+Functions
+6 hrs
+Introduction, returning a value from a function, sending a value to a function, Arguments, parsing arrays and structure, External variables, storage classes, pre- processor directives, C libraries, macros, header files and prototyping
+
+. Pointers
+7 hrs
+Definition pointers for arrays, returning multiple values form functions using pointers. Pointer arithmetic, pointer for strings, double indirection, pointer to arrays, Memory allocation-malloc and calloc
+8.
+Structure and Unions
+5 hrs
+Definition of Structure, Nested type Structure, Arrays of Structure, Structure and Pointers, Unions, self-referential structure
+9. Files and File Handling
+4 hrs
+Operating a file in different modes (Real, Write, Append), Creating a file in different modes (Read, Write, Append)
+Laboratory:
+Laboratory work at an initial stage will emphasize on the verification of programming concepts learned in class and use of loops, functions, pointers, structures and unions. Final project of 10 hours will be assigned to the students which will help students to put together most of the programming concepts developed in earlier exercises.
